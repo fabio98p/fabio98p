@@ -1,7 +1,5 @@
 <!-- PROJECT LOGO -->
-<div align="center">
-    <h1>Github of Parisi Fabio</h1>
-</div>
+<h1 align="center">Github of Parisi Fabio</h1>
 
 
 <!-- ABOUT THE PROJECT -->
