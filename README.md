@@ -28,11 +28,6 @@
   </ol>
 </details>
 
-<style>
-	#test {
-		color: red
-	}
-</style>
 
 
 <!-- ABOUT THE PROJECT -->
@@ -41,7 +36,7 @@
 sono parisi fabio hoi 24 anni e sono italiano
 
 
-<p align="right" id="test">(<a href="#readme-top">back to top</a>)</p>
+<p align="right" style="color:blue">(<a href="#readme-top">back to top</a>)</p>
 
 ## Skills
 
