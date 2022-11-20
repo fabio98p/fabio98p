@@ -57,7 +57,7 @@ Parisi Fabio - [Linkedin](https://www.linkedin.com/in/fabio-parisi-ab0297171/)
 
 ## Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabio98p&show_icons=true&theme=dark" alt="fabio98p" />
+<img src="https://github-readme-stats.vercel.app/api?username=fabio98p&show_icons=true&theme=dark" alt="fabio98p" />
 
 
 
