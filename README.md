@@ -1,7 +1,3 @@
-<a name="readme-top"></a>
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -14,9 +10,6 @@
 
 Hi, I am parisi fabio I am 24 years old and I am Italian.<br>
 I am a full stack web developer
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Skills
 
@@ -55,7 +48,6 @@ for more info about my project go and see my portfolio
     <li><a href="https://github.com/fabio98p/portfolio_project">Github</a></li>
 </ul>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- CONTACT -->
@@ -63,13 +55,11 @@ for more info about my project go and see my portfolio
 <!-- inserire email e altre cose -->
 Parisi Fabio - [Linkedin](https://www.linkedin.com/in/fabio-parisi-ab0297171/) 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabio98p&show_icons=true&theme=dark" alt="fabio98p" />
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
