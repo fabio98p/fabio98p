@@ -5,8 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-Hi, I am parisi fabio I am 24 years old and I am Italian.<br>
-I am a full stack web developer
+Hi, I am Parisi Fabio and i am an Italian full stack developer
 
 ## Skills
 
